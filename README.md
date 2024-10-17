@@ -1,1 +1,1 @@
-# JavaScript---A-Beginner-s-Guide
+# JavaScript-A-Beginner-s-Guide
